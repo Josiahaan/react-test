@@ -81,6 +81,7 @@ export default function Main() {
           ml: `${drawerWidth}px`,
           backgroundColor: "white",
           color: "black",
+          
         }}
       >
         <Toolbar>
